@@ -5,14 +5,19 @@ TSS Lab project
 Sa se scrie un program in Java, precum si cerintele (specificatia) acestuia.
 
 1. Pe baza cerintelor programului, sa se genereze date de test folosind
+   
   a) equivalence partitioning
+  
   b) boundary value analysis
+  
   c) cause-effect graphing.
 
   Sa se implementeze testele obtinute folosind JUnit.
 
 3. Sa se stabileasca nivelul de acoperire realizat de fiecare dintre seturile de teste de la 1) a), b) si c) folosind unul dintre utilitarele de code coverage prezentate in [6]. Sa se compare si sa se comenteze rezultatele obtinute de cele trei seturi de teste.
+   
    [6. Code coverage tools](https://www.softwaretestinghelp.com/code-coverage-tools/)
+   
 5. Sa se transforme programul intr-un graf orientat si, pe baza acestuia, sa se gaseasca un set de teste care satisface criteriul modified condition/decision coverage (MC/DC).
 7. Sa se scrie un mutant de ordinul 1 echivalent al programului.
 8. Pentru unul dintre cazurile de testare de mai sus sa se scrie un mutant ne-echivalent care sa fie omorat de catre test si un mutant ne-echivalent care sa nu fie omorat de catre test.
