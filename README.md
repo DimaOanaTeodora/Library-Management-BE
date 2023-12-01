@@ -23,7 +23,7 @@ Sa se scrie un program in Java, precum si cerintele (specificatia) acestuia.
 8. Pentru unul dintre cazurile de testare de mai sus sa se scrie un mutant ne-echivalent care sa fie omorat de catre test si un mutant ne-echivalent care sa nu fie omorat de catre test.
 
 Observatii:
-• Se poate folosi orice limbaj de programare care permite scrierea testelor unitare si folosirea unui tool de acoperire.
-• Se poate testa o metoda (functie, procedura) din program, insa trebuie mentionat clar acest lucru, descrisa functionalitatea acesteia, iar toate cerintele se vor rezolva pe baza aceleiasi metode.
-• Pe langa programul efectiv si testele implementate, se va realiza si o documentatie in care se vor descrie detaliat cum s-au obtinut rezultatele pentru fiecare din cerintele proiectului.
-• Graful asociat programului va fi realizat cu un utilitar (de exemplu: Lucidchart, Draw.io, yEd, Microsoft Visio).
+- Se poate folosi orice limbaj de programare care permite scrierea testelor unitare si folosirea unui tool de acoperire.
+- Se poate testa o metoda (functie, procedura) din program, insa trebuie mentionat clar acest lucru, descrisa functionalitatea acesteia, iar toate cerintele se vor rezolva pe baza aceleiasi metode.
+- Pe langa programul efectiv si testele implementate, se va realiza si o documentatie in care se vor descrie detaliat cum s-au obtinut rezultatele pentru fiecare din cerintele proiectului.
+- Graful asociat programului va fi realizat cu un utilitar (de exemplu: Lucidchart, Draw.io, yEd, Microsoft Visio).
